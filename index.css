@@ -1,0 +1,12 @@
+:root{
+    --text: #040316;
+    --background: #fbfbfe;
+    --primary: #00805b;
+    --secondary: #cfcb9b;
+    --accent: #7abd75;
+}
+
+.main-container{
+    display: flex;
+    width: 80%;
+}
